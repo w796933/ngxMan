@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/yangbinnnn/xlib"
+	"github.com/vbsw/xlib"
 )
 
 var SiteNotFound = errors.New("Site not found")
